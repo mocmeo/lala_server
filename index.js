@@ -35,7 +35,7 @@ router.use(function (req, res, next) {
 
 // Handle get request
 router.get('/', function (req, res) {
-    res.json({message: "Hooray! welcome to our api!"});
+    res.json({message: "Hooray! welcome admin to our api!"});
 });
 
 router.route('/users')
