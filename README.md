@@ -24,3 +24,5 @@ The application will automatically deploy for master branch. Heroku will build a
 ## Documentation
 
 For more information about our API, check out this [guides](https://docs.google.com/document/d/1rvhbq336b4yZrxMBSL1_LjYJmE2_s0oJCVzRVuQPutk/edit).
+
+API Schema: [here](https://docs.google.com/document/d/1biutVKE90QddObU2ukUUNdG_kS8YU-xhsS_VjEDilTQ/edit).
